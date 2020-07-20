@@ -3,7 +3,7 @@ layout: page
 title : Resumé
 permalink: /resume/
 subtitle: "My Resume"
-feature-img: "assets/img/pexels/computer.jpeg"
+feature-img: "assets/img/pexels/yellow_background.png"
 tags: [Resume, Archive]
 ---
 
