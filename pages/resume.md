@@ -4,6 +4,7 @@ title : Resumé
 permalink: /resume/
 subtitle: "My Resume"
 feature-img: "assets/img/pexels/computer.jpeg"
+tags: [Resume, Archive]
 ---
 
 # Nisha Prabhakar
