@@ -22,7 +22,6 @@ nisha.p@berkeley.edu
 **Key Courses**
 - Computer Science 61A: The Structure and Interpretation of Computer Programs
 - Electrical Engineering and Computer Science 16A: Designing Information Devices and Systems I
-- Math 53, Multivariable Calculus
 - Computer Science 61B: Data Structures and Algorithms
 - Electrical Engineering and Computer Science 16B: Designing Information Devices and Systems II
 - Computer Science 61C: Great Ideas of Computer Architecture (Machine Structures)
