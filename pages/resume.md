@@ -36,7 +36,8 @@ nisha.p@berkeley.edu
 
 ## Skills
 - Proficient in Java, Python, HTML, and Linux
-- Proficient in CAD, particularly the programs Maya and Fusion 360
+- Proficient in CAD: Maya, Fusion 360
+- Experience in Ansible, mySQL, Data Modeling
 
 ## Professional Experience
 ### Lawrence Livermore National Laboratories
