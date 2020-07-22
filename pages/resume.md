@@ -4,7 +4,7 @@ title : Resumé
 permalink: /resume/
 subtitle: "My Resume"
 feature-img: "assets/img/pexels/blue_bandana.png"
-tags: [Resume, Archive]
+tags: [Resume]
 ---
 
 # Nisha Prabhakar
@@ -20,10 +20,10 @@ nisha.p@berkeley.edu
 **GPA:** 3.957  
 **Graduation Date:** May, 2023  
 **Key Courses**
-- Computer Science 61A: The Structure and Interpretation of Computer Programs
-- Electrical Engineering and Computer Science 16A: Designing Information Devices and Systems I
-- Computer Science 61B: Data Structures and Algorithms
-- Electrical Engineering and Computer Science 16B: Designing Information Devices and Systems II
+- [Computer Science 61A](https://inst.eecs.berkeley.edu/~cs61a/fa19/): The Structure and Interpretation of Computer Programs
+- [Electrical Engineering and Computer Science 16A](https://inst.eecs.berkeley.edu/~ee16a/fa19/): Designing Information Devices and Systems I
+- [Computer Science 61B](https://inst.eecs.berkeley.edu/~cs61b/sp20/): Data Structures and Algorithms
+- [Electrical Engineering and Computer Science 16B](https://inst.eecs.berkeley.edu/~ee16b/sp20/): Designing Information Devices and Systems II
 - Computer Science 61C: Great Ideas of Computer Architecture (Machine Structures)
 - Computer Science 70: Discrete Mathematics and Probability Theory
 
