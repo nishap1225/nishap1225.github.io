@@ -1,5 +1,5 @@
 # Icons on the footer
-rss: true
+rss: false
 email_address: nisha.p@berkeley.edu   # Full email address, e.g. "sam@example.com"
 behance:
 bitbucket:
@@ -10,7 +10,7 @@ gitlab:
 github: "nishap1225"
 instagram:
 keybase:
-linkedin: www.linkedin.com/in/nisha-prabhakar        # Full URL
+linkedin: https://www.linkedin.com/in/nisha-prabhakar/        # Full URL
 pinterest:
 reddit:
 soundcloud:
