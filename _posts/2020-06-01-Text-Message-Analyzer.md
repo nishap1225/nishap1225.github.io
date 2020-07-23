@@ -7,11 +7,9 @@ author: nishap1225
 excerpt_separator: <!--more-->
 ---
 
-# Text Message Analyzer
+### Python | BERT | Pandas | sklearn
 
 <!--more-->
-
-### Python | BERT | Pandas | sklearn
 
 #### [Github](https://nishap1225.github.io/Text-Message-Analyzer/) | [Google Colab](https://colab.research.google.com/drive/199_uyqz7nc5aTBdIykGcwGMIYaGMsXDF?usp=sharing)
 
