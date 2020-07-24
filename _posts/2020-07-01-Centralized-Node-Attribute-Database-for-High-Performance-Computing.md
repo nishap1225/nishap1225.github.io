@@ -2,7 +2,7 @@
 layout: post
 title: Centralized Node Attribute Database for High Performance Computing
 tags: [Project]
-color: rgb(139, 204, 240)
+color: rgb(104, 183, 227)
 author: nishap1225
 excerpt_separator: <!--more-->
 ---
@@ -19,4 +19,4 @@ Next, we designed and created the structure of the database using mySQL.
 {% include aligner.html images="pexels/gender_schema.png" column=1 %}  
 We then wrote scripts to comb through the genders files and populate the database. We adapted the script to comb through the directories of a [cfengine](https://cfengine.com/) repository. Finally, we adapted *nodeattr*, the built-in genders query tool, to instead send queries to the database.
 
-#### Conclusions 
+#### Conclusions
