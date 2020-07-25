@@ -7,9 +7,10 @@ author: nishap1225
 excerpt_separator: <!--more-->
 ---
 ### Python | mySQL | Bash | Linux  
+<!--more-->
+
 ***Organization***: Systems Administration Intern at Lawrence Livermore National Laboratory   
 
-<!--more-->
 ### Background
 In LLNL high performance computing systems, the [*genders tool*](https://github.com/chaos/genders) stores information about node configurations and is used for cluster configuration management. Each cluster has a *genders* file stored on the local storage system. However, there is no way to access this information without manually entering a node. Furthermore, there is no way to ask queries that concern all the nodes of the system. So, we created a centralized database which stores all of the node attribute information for all of the clusters.
 
