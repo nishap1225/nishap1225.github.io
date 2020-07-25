@@ -6,7 +6,6 @@ color: rgb(3, 169, 252)
 author: nishap1225
 excerpt_separator: <!--more-->
 ---
-
 ### Python | BERT | Pandas | sklearn
 
 <!--more-->

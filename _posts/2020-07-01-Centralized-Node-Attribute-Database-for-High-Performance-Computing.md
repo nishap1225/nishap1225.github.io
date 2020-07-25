@@ -16,4 +16,5 @@ In LLNL high performance computing systems, the [*genders tool*](https://github.
 ### Process
 First, we adjusted the installation files to build [libgenders](https://github.com/chaos/genders/tree/master/src/libgenders) (the python extension for the genders tool) on python3 instead of python2.  
 Next, we designed and created the structure of the database using mySQL.
-We then wrote scripts to comb through the genders files and populate the database. We adapted the script to comb through the directories of a [cfengine](https://cfengine.com/) repository. Finally, we adapted *nodeattr*, the built-in genders query tool, to instead send queries to the database.
+We then wrote scripts to comb through the genders files and populate the database. We adapted the script to comb through the directories of a [cfengine](https://cfengine.com/) repository.   
+Finally, we adapted *nodeattr*, the built-in genders query tool, to instead send queries to the database.
