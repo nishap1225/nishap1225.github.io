@@ -6,8 +6,8 @@ color: rgb(104, 183, 227)
 author: nishap1225
 excerpt_separator: <!--more-->
 ---
-### Python | mySQL | Bash | Linux
-***Organization***: Lawrence Livermore National Laboratory
+### Python | mySQL | Bash | Linux  
+***Organization***: Systems Administration Intern at Lawrence Livermore National Laboratory   
 
 <!--more-->
 ### Background
