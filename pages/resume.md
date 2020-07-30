@@ -37,7 +37,7 @@ nisha.p@berkeley.edu
 **Languages**: English (Native Proficiency), French (Professional Proficiency)
 
 ## Skills
-- Proficient in Java, Python, HTML, and Linux
+- Proficient in Java, Python, HTML, and Linux/UNIX, git 
 - Proficient in CAD: Maya, Fusion 360
 - Experience in Ansible, mySQL, Data Modeling
 
