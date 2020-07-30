@@ -25,6 +25,8 @@ nisha.p@berkeley.edu
 - [Computer Science 61B](https://inst.eecs.berkeley.edu/~cs61b/sp20/): Data Structures and Algorithms
 - [Electrical Engineering and Computer Science 16B](https://inst.eecs.berkeley.edu/~ee16b/sp20/): Designing Information Devices and Systems II
 - Computer Science 61C: Great Ideas of Computer Architecture (Machine Structures)
+   - Computer Architecture, Compilers
+   - Language: C
 - Computer Science 70: Discrete Mathematics and Probability Theory
 
 **Extracurriculars**
