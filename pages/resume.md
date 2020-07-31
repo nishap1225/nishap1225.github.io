@@ -37,7 +37,7 @@ nisha.p@berkeley.edu
 **Languages**: English (Native Proficiency), French (Professional Proficiency)
 
 ## Skills
-- Proficient in Java, Python, HTML, and Linux/UNIX, git 
+- Proficient in Java, Python, HTML, and Linux/UNIX, git
 - Proficient in CAD: Maya, Fusion 360
 - Experience in Ansible, mySQL, Data Modeling
 
@@ -45,10 +45,12 @@ nisha.p@berkeley.edu
 ### Lawrence Livermore National Laboratories
 High Performance Computing Intern   
 *June 15, 2020 - present*
-- Installed a cluster on high performance system, configured network connections and installed relevant packages
-- Created a central database which stores information about  node configurations for nodes in HPC system
-    - Database is easily queried from anywhere within the system  
-    - Database updates when a change to node configuration is made  
+- Installed a cluster of high performance compute nodes, configured the operating system, installed relevant packages  
+- Automated the process with Ansible  
+- Created a central database which stores information about systems in a HPC cluster using mySQL and Python
+  - Database is easily queried from anywhere within the network
+  - Database updates automatically when changes are made to the system configuration  
+
 
 ### EECS 16A Lab Assistant
 UC Berkeley  
