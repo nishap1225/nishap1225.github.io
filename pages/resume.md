@@ -48,7 +48,7 @@ High Performance Computing Intern
 - Installed a cluster of high performance compute nodes, configured the operating system, installed relevant packages  
 - Automated the process with Ansible  
 - Created a central database which stores information about systems in a HPC cluster using mySQL and Python
-  - Database is easily queried from anywhere within the network
+  - The relational database is easily queried from anywhere within the network
   - Database updates automatically when changes are made to the system configuration  
 
 
