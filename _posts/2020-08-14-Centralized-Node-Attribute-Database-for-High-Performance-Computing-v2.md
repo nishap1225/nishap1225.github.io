@@ -1,0 +1,29 @@
+---
+layout: post
+title: Centralized Node Attribute Database for High Performance Computing
+tags: [Project]
+color: rgb(104, 183, 227)
+author: nishap1225
+excerpt_separator: <!--more-->
+---
+### Python | mySQL | Bash | Linux
+<!--more-->
+
+***Organization***: Lawrence Livermore National Laboratories
+
+#### [Github](https://github.com/LLNL/HPCCEA/tree/gendersteam/2020/Genders) | [PyPi](https://test.pypi.org/project/centralgendersdatabase/) |
+<a href="file:///Users/nisha/nishap1225.github.io/assets/Centralized-Node-Attribute-Database-for-High-Performance-Computing.pdf">Presentation</a>
+
+
+*Note: These links will be updated with the final version after my internship ends.*
+
+### Background
+In LLNL high performance computing systems, the [*genders tool*](https://github.com/chaos/genders) stores information about node configurations and is used for cluster configuration management. Each cluster has a *genders* file stored on the local storage system. However, there is no way to access this information without manually entering a node. Furthermore, there is no way to ask queries that concern all the nodes of the system. So, we created a centralized database which stores all of the node attribute information for all of the clusters.
+
+#### Process
+First, we adjusted the installation files to build [libgenders](https://github.com/chaos/genders/tree/master/src/libgenders) (the python extension for the genders tool) on python3 instead of python2.  
+Next, we designed and created the structure of the database using mySQL.
+{% include aligner.html images="pexels/gender_schema.png" column=1 %}  
+We then wrote scripts to comb through the genders files and populate the database. We adapted the script to comb through the directories of a [cfengine](https://cfengine.com/) repository. Finally, we adapted *nodeattr*, the built-in genders query tool, to instead send queries to the database.
+
+#### Conclusions
