@@ -11,7 +11,7 @@ excerpt_separator: <!--more-->
 
 ***Organization***: Lawrence Livermore National Laboratories
 
-#### [Github](https://github.com/LLNL/HPCCEA/tree/gendersteam/2020/Genders) | [PyPi](https://test.pypi.org/project/centralgendersdatabase/) | [Presentation](~/assets/Centralized-Node-Attribute-Database-for-High-Performance-Computing.pdf)
+#### [Github](https://github.com/LLNL/HPCCEA/tree/gendersteam/2020/Genders) | [PyPi](https://test.pypi.org/project/centralgendersdatabase/) | [Presentation](../assets/Centralized-Node-Attribute-Database-for-High-Performance-Computing.pdf)
 
 
 *Note: These links will be updated with the final version after my internship ends.*
