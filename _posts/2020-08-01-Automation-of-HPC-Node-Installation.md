@@ -31,3 +31,5 @@ Finally, we created a bash script that took arguments and called the appropriate
 
 ### Rebooting the Node
 After a node is completely installed and configured, it's important to reboot the node locally to be make sure the configuration changes are correct. I did this with an ansible playbook by calling on the *reboot* module. Once the computer had rebooted, I wrote a simple test to check if the node had rebooted successfully.
+
+*This work was performed under the auspices of the U.S. Department  of Energy by Lawrence Livermore National Laboratory under Contract  DE-AC52-07NA27344. Lawrence Livermore National Security, LLC*
