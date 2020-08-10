@@ -16,12 +16,22 @@ excerpt_separator: <!--more-->
 *Note: These links will be updated with the final version after my internship ends.*
 
 ### Background
-In LLNL high performance computing systems, the [*genders tool*](https://github.com/chaos/genders) stores information about node configurations and is used for cluster configuration management. Each cluster has a *genders* file stored on the local storage system. However, there is no way to access this information without manually entering a node. Furthermore, there is no way to ask queries that concern all the nodes of the system. So, we created a centralized database which stores all of the node attribute information for all of the clusters.
+The [*genders tool*](https://github.com/chaos/genders) is an open source LLNL tool that stores information about node configurations and is used for cluster configuration management. On each cluster, there exists a file which contains configuration information about a node. The genders file is replicated on each node of the cluster. The genders file can be queried with the command line *nodeattr* tool.
+
+### Motivation
+However, there is no way to remotely query the genders file of a node; you have to log into the node and use nodattr. So, in order to solve this problem, we created a centralized database which stores all the genders of all the clusters which can be accessed anywhere in the system.
 
 #### Process
-First, we adjusted the installation files to build [libgenders](https://github.com/chaos/genders/tree/master/src/libgenders) (the python extension for the genders tool) on python3 instead of python2.  
-Next, we designed and created the structure of the database using mySQL.
-{% include aligner.html images="pexels/gender_schema.png" column=1 %}  
-We then wrote scripts to comb through the genders files and populate the database. We adapted the script to comb through the directories of a [cfengine](https://cfengine.com/) repository. Finally, we adapted *nodeattr*, the built-in genders query tool, to instead send queries to the database.
+- We installed *libgenders*, the python library which functions similarly to *nodeattr*. We changed the configuration to build on python3 instead of python2.
+- We then created the structure of the database. We
+decided to use mySQL versus a non-relational database like
+mongoDB the genders structure was easily visualized as a relational schema. 
+{% include aligner.html images="pexels/gender_schema.png" column=3 %}  
+- We then used the python module to query the local genders file 
+and feed it into the database. This was then adapted to be able
+to comb through multiple directories.
+- Lastly we created python methods for users to query from the database through the command line. This mimics *nodeattr* except the information is read from the database.
+- After the code was complete, we compiled the code into a python package
 
-#### Conclusions
+#### What's Next?
+- Ideally, we would want to automatically run the script that updates the database, so that when somebody updates one of the genders files, the database changes as well. 
