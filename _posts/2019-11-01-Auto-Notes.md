@@ -12,4 +12,6 @@ excerpt_separator: <!--more-->
 #### [Github Repo](https://github.com/LarynQi/AutoNotes)  
 ***Event:*** CalHacks, Fall 2019  
 
+{% include aligner.html images="pexels/autonotes_website.png" column=1 %}  
+
 As video lectures become more and more standard at UC Berkeley, we decided to create an automated note taker for students to absorb material quickly.
