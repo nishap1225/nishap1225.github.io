@@ -12,7 +12,7 @@ Pleasanton, California 94588
 (925) 353 - 4497  
 nisha.p@berkeley.edu  
 
-> Student at UC Berkeley majoring in Electrical Engineering and Computer Science seeking summer 2021 internship.   
+> I am a student at UC Berkeley majoring in Electrical Engineering and Computer Science. I'm currently seeking a summer 2021 internship. 
 
 ## Education
 ### University of California, Berkeley  
@@ -44,13 +44,12 @@ nisha.p@berkeley.edu
 ## Professional Experience
 ### Lawrence Livermore National Laboratories
 High Performance Computing Intern   
-*June 15, 2020 - present*
+*June 15, 2020 - August 14, 2020*
 - Installed a cluster of high performance compute nodes, configured the operating system, installed relevant packages  
 - Automated the process with Ansible  
 - Created a central database which stores information about systems in a HPC cluster using mySQL and Python
   - The relational database is easily queried from anywhere within the network
   - Database updates automatically when changes are made to the system configuration  
-
 
 ### EECS 16A Lab Assistant
 UC Berkeley  
@@ -69,7 +68,7 @@ UC Berkeley
 ## Academic Projects
 ### uMaps
 TreeHacks (Stanford University)  
-<span>*February 2020*</span>
+*February 2020*
 - iOS application that integrates Google Maps with an indoor map of various buildings at university campuses
 - Provides a comprehensive map of rooms within buildings and displays walking directions between rooms
 

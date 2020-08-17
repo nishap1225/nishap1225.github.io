@@ -11,7 +11,7 @@ excerpt_separator: <!--more-->
 
 ***Organization***: Lawrence Livermore National Laboratories
 
-#### [Github](https://github.com/LLNL/HPCCEA/tree/gendersteam/2020/Genders) | [Presentation](https://drive.google.com/file/d/1wSphZDyJK3cgB54JE0zQWa2RnX2kQsXn/view?usp=sharing)
+#### [Github](https://github.com/LLNL/HPCCEA/tree/master/2020/Genders) | [Presentation](https://drive.google.com/file/d/1wSphZDyJK3cgB54JE0zQWa2RnX2kQsXn/view?usp=sharing)
 
 *Note: These links will be updated with the final version after my internship ends.*
 
