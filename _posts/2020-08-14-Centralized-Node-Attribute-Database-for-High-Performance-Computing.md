@@ -27,10 +27,10 @@ However, there is no way to remotely query the genders file of a node; you have 
 decided to use mySQL versus a non-relational database like
 mongoDB the genders structure was easily visualized as a relational schema. 
 {% include aligner.html images="pexels/gender_schema.png" column=3 %}  
-- We then used the python module to query the local genders file 
+- Next, we used the python module to query the local genders file 
 and feed it into the database. This was then adapted to be able
 to comb through multiple directories.
-- Lastly we created python methods for users to query from the database through the command line. This mimics `nodeattr` except the information is read from the database.
+- Lastly, we created python methods for users to query from the database through the command line. This mimics `nodeattr` except the information is read from the database.
 - After the code was complete, we compiled the code into a python package
 
 #### What's Next?
