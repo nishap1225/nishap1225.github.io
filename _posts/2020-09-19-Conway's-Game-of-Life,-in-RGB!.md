@@ -2,7 +2,7 @@
 layout: post
 title: Conway's Game of Life, in RGB!
 tags: [CS61C, Project]
-color: rgb(104, 183, 227)
+color: rgb(237, 187, 50)
 author: nishap1225
 excerpt_separator: <!--more-->
 ---
