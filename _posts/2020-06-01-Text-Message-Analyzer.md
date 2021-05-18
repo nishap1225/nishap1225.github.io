@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Text Message Analyzer
-tags: [Project]
+tags: [Independent, Project]
 color: rgb(3, 169, 252)
 author: nishap1225
 excerpt_separator: <!--more-->

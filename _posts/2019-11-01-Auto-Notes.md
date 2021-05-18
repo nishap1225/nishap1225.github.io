@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Auto Notes
-tags: [Project]
+tags: [Hackathon, Project]
 color: rgb(94, 178, 184)
 author: nishap1225
 excerpt_separator: <!--more-->

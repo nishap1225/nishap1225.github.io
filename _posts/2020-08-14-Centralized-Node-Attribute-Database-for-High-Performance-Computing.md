@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Centralized Node Attribute Database for High Performance Computing
-tags: [Project]
+tags: [LLNL, Project]
 color: rgb(104, 183, 227)
 author: nishap1225
 excerpt_separator: <!--more-->

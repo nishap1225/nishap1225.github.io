@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Automation of HPC Node Installation
-tags: [Project]
+tags: [LLNL, Project]
 color: rgb(35, 80, 148)
 author: nishap1225
 excerpt_separator: <!--more-->
