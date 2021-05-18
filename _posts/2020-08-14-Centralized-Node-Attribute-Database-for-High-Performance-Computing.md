@@ -13,8 +13,6 @@ excerpt_separator: <!--more-->
 
 #### [Github](https://github.com/LLNL/HPCCEA/tree/master/2020/Genders) | [Presentation](https://drive.google.com/file/d/1wSphZDyJK3cgB54JE0zQWa2RnX2kQsXn/view?usp=sharing)
 
-*Note: These links will be updated with the final version after my internship ends.*
-
 ### Background
 The [*genders tool*](https://github.com/chaos/genders) is an open source LLNL tool that stores information about node configurations and is used for cluster configuration management. On each cluster, there exists a file which contains configuration information about a node. The genders file is replicated on each node of the cluster. The genders file can be queried with the command line `nodeattr` tool.
 
