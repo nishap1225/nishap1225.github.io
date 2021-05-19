@@ -14,4 +14,6 @@ excerpt_separator: <!--more-->
 
 In this project, I created methods to read in and write to [PPM ASCII files](https://en.wikipedia.org/wiki/Netpbm#PPM_example). Secondly, I decoded messages hidden with [steganography](https://en.wikipedia.org/wiki/Steganography) in image files.   
 
-Finally, I implemented the game of life in C.
+Finally, I implemented the game of life in C.  
+
+![Alt Text](https://github.com/nishap1225/nishap1225.github.io/blob/master/assets/img/pexels/cs61c_project1.gif) 
