@@ -16,4 +16,4 @@ In this project, I created methods to read in and write to [PPM ASCII files](htt
 
 Finally, I implemented the game of life in C.  
 
-![alt-text](https://github.com/nishap1225/nishap1225.github.io/blob/master/assets/img/pexels/cs61c_project1.gif)
+![alt-text](pexels/cs61c_project1.gif)
