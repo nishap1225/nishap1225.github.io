@@ -16,4 +16,4 @@ In this project, I created methods to read in and write to [PPM ASCII files](htt
 
 Finally, I implemented the game of life in C.  
 
-{% include aligner.html images="pexels/cs61c_project1.gif" column=1 %}  
+{% include aligner.html images="pexels/cs61c_project1.gif" %}  
