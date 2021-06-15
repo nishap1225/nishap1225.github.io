@@ -2,14 +2,14 @@
 layout: post
 title: ShallowSleep
 tags: [Launchpad, Project]
-color: rgb(139, 252, 192)
+color: rgb(62, 240, 151)
 author: nishap1225
 excerpt_separator: <!--more-->
 ---
 ### PyTorch | Keras | CNNs | LSTMs | React | Javascript
 <!--more-->
 
-#### [Github](https://github.com/maxemerling/ShallowSleep) | [Website](https://shallow-sleep.web.app/dashboard/) | [Slideshow]() | Presentation (https://www.youtube.com/watch?v=LZnCByZwqOw&list=PL0breT9kiPgs3xiXwfHeILRuEj5RqL7y-&index=2&t=12s) 
+#### [Github](https://github.com/maxemerling/ShallowSleep) | [Website](https://shallow-sleep.web.app/dashboard/) | [Presentation](https://www.youtube.com/watch?v=LZnCByZwqOw&list=PL0breT9kiPgs3xiXwfHeILRuEj5RqL7y-&index=2&t=12s) 
 
 Current methods to track sleep are either 1) sleep labs or 2) wearable technology. Sleep labs are accurate, but they are also expensive and uncomfortable. Wearable technology is inexpensive, but is inaccurate. 
 
