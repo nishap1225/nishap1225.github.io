@@ -2,7 +2,7 @@
 layout: post
 title: FHA Frustrates Cannonball Run Challengers!
 tags: [CS 170, Project]
-color: rgb(43, 224, 58)
+color: rgb(30, 168, 72)
 author: nishap1225
 excerpt_separator: <!--more-->
 ---

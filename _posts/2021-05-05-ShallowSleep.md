@@ -2,7 +2,7 @@
 layout: post
 title: ShallowSleep
 tags: [Launchpad, Project]
-color: rgb(62, 240, 151)
+color: rgb(35, 207, 172)
 author: nishap1225
 excerpt_separator: <!--more-->
 ---
