@@ -2,7 +2,7 @@
 layout: post
 title: ShallowSleep
 tags: [Launchpad, Project]
-color: rgb(35, 207, 172)
+color: rgb(45, 179, 147)
 author: nishap1225
 excerpt_separator: <!--more-->
 ---
@@ -11,7 +11,7 @@ excerpt_separator: <!--more-->
 
 #### [Github](https://github.com/maxemerling/ShallowSleep) | [Website](https://shallow-sleep.web.app/dashboard/) | [Presentation](https://www.youtube.com/watch?v=LZnCByZwqOw&list=PL0breT9kiPgs3xiXwfHeILRuEj5RqL7y-&index=2&t=12s) 
 
-Current methods to track sleep are either 1) sleep labs or 2) wearable technology. Sleep labs are accurate, but they are also expensive and uncomfortable. Wearable technology is inexpensive, but is inaccurate. 
+The current methods to track sleep are 1) sleep labs and 2) wearable technology. Sleep labs are accurate, but they are also expensive and uncomfortable. Wearable technology is inexpensive, but is inaccurate. 
 
 [This paper](http://sleep.csail.mit.edu/files/rfsleep-paper.pdf) released a few years ago from MIT proposed an alternative solution: determining sleep stages with a ML model using radio signals. Our project was to implement this model, and see what level of accuracy we could achieve.  
 

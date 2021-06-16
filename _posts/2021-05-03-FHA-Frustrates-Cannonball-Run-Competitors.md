@@ -13,7 +13,7 @@ excerpt_separator: <!--more-->
 
 **The Problem**: Given a wheighted, undirected, graph, a source and destination vertex, and two integer budgets, maximize the distance between the source and destination by removing edges and vertices as the budget allows. 
 
-In order to solve this problem (without any parallelization/machine optimization), we tried a variety of algorithm optimizations. 
+In order to solve this problem (without any parallelization/machine optimization), we experimented with a variety of algorithm optimization strategies. 
 
 What was most successful was the heuristic methods. By creating a "score" for each vertex/edge, or removing vertices/edges in a somewhat advantageous order, we were able to increase the distance between the source and destination significantly. 
 

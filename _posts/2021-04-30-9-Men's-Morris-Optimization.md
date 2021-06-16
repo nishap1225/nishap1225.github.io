@@ -17,6 +17,6 @@ Gamescrafters is a research group at UC Berkeley headed by [Professor Garcia](ht
 
 We worked to increase the efficiency of the [retrograde solver](https://github.com/GamesCrafters/GamesmanClassic/blob/369MMSp2021/src/core/solveretrograde.c).  
 
-In order to decrease the time complexity, we implemented symmetries (symmetrcal game positions were collapsed into a single position). This cut the time to solve by a factor of 16. 
+In order to decrease the time complexity, we implemented symmetries (symmetrcal game positions that are collapsed into a single position). This cut the time to solve by a factor of 16. 
 
 We also implemented the functions `GenerateUndoMoves` and `UndoMove`, which takes a position and generates the possible preceding positions. The standard retrograde solver stores a stack of every move taken; by implementing this method, we can cut down the storage space and compute the backwards stack when it's needed. 
