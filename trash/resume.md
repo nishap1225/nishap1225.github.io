@@ -1,11 +1,11 @@
----
+<!-- ---
 layout: page
 title : Resumé
 permalink: /resume/
 subtitle: "My Resume"
 feature-img: "assets/img/pexels/newpics/cottoncandysky.jpg"
 tags: [Resume]
----
+--- -->
 
 # Nisha Prabhakar
 Pleasanton, California 94588  

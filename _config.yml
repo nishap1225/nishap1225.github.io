@@ -4,7 +4,7 @@ url: "https://nishap1225.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
 title: Nisha Prabhakar                                    # site's title
-description: "Nisha Prabhakar's projects and resumé."      # used by search engines
+description: "Nisha Prabhakar's projects!"      # used by search engines
 avatar: assets/img/arrow_icon.png                         # Empty for no avatar in navbar
 favicon: assets/favicon.ico                             # Icon displayed in the tab
 
